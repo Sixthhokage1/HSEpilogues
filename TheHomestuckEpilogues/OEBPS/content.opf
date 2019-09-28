@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Homestuck Epilogues</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator opf:role="aut">Andrew Hussie</dc:creator>
+    <dc:creator opf:role="aut">Cephied_Variable</dc:creator>
+    <dc:creator opf:role="aut">ctset</dc:creator>
+    <dc:publisher />
+    <dc:coverage />
+    <dc:source />
+    <dc:date opf:event="publication">2019-04-20</dc:date>
+    <dc:date opf:event="modification">2019-09-27</dc:date>
+    <dc:rights />
+    <meta content="0.9.16" name="Sigil version" />
+    <dc:identifier id="BookId" opf:scheme="URI">ExNdphPEM</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="pro_cover" href="Text/pro_cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="navigation" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="tags" href="Text/tags.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pro1" href="Text/pro1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pro2" href="Text/pro2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pro3" href="Text/pro3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat_cover" href="Text/meat_cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat1" href="Text/meat1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat2" href="Text/meat2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat3" href="Text/meat3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat4" href="Text/meat4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat5" href="Text/meat5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat6" href="Text/meat6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat7" href="Text/meat7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat8" href="Text/meat8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat9" href="Text/meat9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat10" href="Text/meat10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat11" href="Text/meat11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat12" href="Text/meat12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat13" href="Text/meat13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat14" href="Text/meat14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat15" href="Text/meat15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat16" href="Text/meat16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat17" href="Text/meat17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat18" href="Text/meat18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat19" href="Text/meat19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat20" href="Text/meat20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat21" href="Text/meat21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat22" href="Text/meat22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat23" href="Text/meat23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat24" href="Text/meat24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat25" href="Text/meat25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat26" href="Text/meat26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat27" href="Text/meat27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat28" href="Text/meat28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat29" href="Text/meat29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat30" href="Text/meat30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat31" href="Text/meat31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat32" href="Text/meat32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat33" href="Text/meat33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat34" href="Text/meat34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat35" href="Text/meat35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat36" href="Text/meat36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat37" href="Text/meat37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat38" href="Text/meat38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat39" href="Text/meat39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat40" href="Text/meat40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat41" href="Text/meat41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat42" href="Text/meat42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat43" href="Text/meat43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meat44" href="Text/meat44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy_cover" href="Text/candy_cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy1" href="Text/candy1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy2" href="Text/candy2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy3" href="Text/candy3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy4" href="Text/candy4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy5" href="Text/candy5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy6" href="Text/candy6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy7" href="Text/candy7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy8" href="Text/candy8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy9" href="Text/candy9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy10" href="Text/candy10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy11" href="Text/candy11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy12" href="Text/candy12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy13" href="Text/candy13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy14" href="Text/candy14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy15" href="Text/candy15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy16" href="Text/candy16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy17" href="Text/candy17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy18" href="Text/candy18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy19" href="Text/candy19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy20" href="Text/candy20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy21" href="Text/candy21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy22" href="Text/candy22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy23" href="Text/candy23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy24" href="Text/candy24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy25" href="Text/candy25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy26" href="Text/candy26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy27" href="Text/candy27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy28" href="Text/candy28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy29" href="Text/candy29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy30" href="Text/candy30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy31" href="Text/candy31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy32" href="Text/candy32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy33" href="Text/candy33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy34" href="Text/candy34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy35" href="Text/candy35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy36" href="Text/candy36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy37" href="Text/candy37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy38" href="Text/candy38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy39" href="Text/candy39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy40" href="Text/candy40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="candy41" href="Text/candy41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="Styles/ebook.css" media-type="text/css"/>
+    <item id="prologue.png" href="Images/prologue.png" media-type="image/png"/>
+    <item id="meat.png" href="Images/meat.png" media-type="image/png"/>
+    <item id="candy.png" href="Images/candy.png" media-type="image/png"/>
+    <item id="summary" href="Text/summary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix_bridges_and_offramps" href="Text/appendix_bridges_and_offramps.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendices.png" href="Images/appendices.png" media-type="image/png"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix_cover.xhtml" href="Text/appendix_cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix_content_warnings.xhtml" href="Text/appendix_content_warnings.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="navigation">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="tags"/>
+    <itemref idref="summary"/>
+    <itemref idref="pro_cover"/>
+    <itemref idref="pro1"/>
+    <itemref idref="pro2"/>
+    <itemref idref="pro3"/>
+    <itemref idref="meat_cover"/>
+    <itemref idref="meat1"/>
+    <itemref idref="meat2"/>
+    <itemref idref="meat3"/>
+    <itemref idref="meat4"/>
+    <itemref idref="meat5"/>
+    <itemref idref="meat6"/>
+    <itemref idref="meat7"/>
+    <itemref idref="meat8"/>
+    <itemref idref="meat9"/>
+    <itemref idref="meat10"/>
+    <itemref idref="meat11"/>
+    <itemref idref="meat12"/>
+    <itemref idref="meat13"/>
+    <itemref idref="meat14"/>
+    <itemref idref="meat15"/>
+    <itemref idref="meat16"/>
+    <itemref idref="meat17"/>
+    <itemref idref="meat18"/>
+    <itemref idref="meat19"/>
+    <itemref idref="meat20"/>
+    <itemref idref="meat21"/>
+    <itemref idref="meat22"/>
+    <itemref idref="meat23"/>
+    <itemref idref="meat24"/>
+    <itemref idref="meat25"/>
+    <itemref idref="meat26"/>
+    <itemref idref="meat27"/>
+    <itemref idref="meat28"/>
+    <itemref idref="meat29"/>
+    <itemref idref="meat30"/>
+    <itemref idref="meat31"/>
+    <itemref idref="meat32"/>
+    <itemref idref="meat33"/>
+    <itemref idref="meat34"/>
+    <itemref idref="meat35"/>
+    <itemref idref="meat36"/>
+    <itemref idref="meat37"/>
+    <itemref idref="meat38"/>
+    <itemref idref="meat39"/>
+    <itemref idref="meat40"/>
+    <itemref idref="meat41"/>
+    <itemref idref="meat42"/>
+    <itemref idref="meat43"/>
+    <itemref idref="meat44"/>
+    <itemref idref="candy_cover"/>
+    <itemref idref="candy1"/>
+    <itemref idref="candy2"/>
+    <itemref idref="candy3"/>
+    <itemref idref="candy4"/>
+    <itemref idref="candy5"/>
+    <itemref idref="candy6"/>
+    <itemref idref="candy7"/>
+    <itemref idref="candy8"/>
+    <itemref idref="candy9"/>
+    <itemref idref="candy10"/>
+    <itemref idref="candy11"/>
+    <itemref idref="candy12"/>
+    <itemref idref="candy13"/>
+    <itemref idref="candy14"/>
+    <itemref idref="candy15"/>
+    <itemref idref="candy16"/>
+    <itemref idref="candy17"/>
+    <itemref idref="candy18"/>
+    <itemref idref="candy19"/>
+    <itemref idref="candy20"/>
+    <itemref idref="candy21"/>
+    <itemref idref="candy22"/>
+    <itemref idref="candy23"/>
+    <itemref idref="candy24"/>
+    <itemref idref="candy25"/>
+    <itemref idref="candy26"/>
+    <itemref idref="candy27"/>
+    <itemref idref="candy28"/>
+    <itemref idref="candy29"/>
+    <itemref idref="candy30"/>
+    <itemref idref="candy31"/>
+    <itemref idref="candy32"/>
+    <itemref idref="candy33"/>
+    <itemref idref="candy34"/>
+    <itemref idref="candy35"/>
+    <itemref idref="candy36"/>
+    <itemref idref="candy37"/>
+    <itemref idref="candy38"/>
+    <itemref idref="candy39"/>
+    <itemref idref="candy40"/>
+    <itemref idref="candy41"/>
+    <itemref idref="appendix_cover.xhtml"/>
+    <itemref idref="appendix_bridges_and_offramps"/>
+    <itemref idref="appendix_content_warnings.xhtml"/>
+  </spine>
+</package>

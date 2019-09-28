@@ -1,0 +1,125 @@
+body {
+    font-size: medium;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 3px solid black;
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+code {
+    font-family: monospace;
+    word-wrap: break-word;
+}
+
+p {
+    text-indent: 1em;
+}
+
+pre > code {
+    line-height: 1.5;
+}
+
+pre {
+    border-left: 3px solid black;
+    background-color: rgb(240, 240, 240);
+    padding-left: 10px;
+    text-align: left;
+    white-space: pre-wrap;
+    font-size: 75%;
+}
+
+.aranea {
+ color:#005682
+}
+.aradia {
+ color:#a10000
+}
+.caliborn {
+ color:#2ed73a
+}
+.calliope {
+ color:#a1a3a6
+}
+.calliope-dead {
+ color:#ff0000
+}
+.calliope-dead-story {
+ font-family:adobe-garamond-pro, serif;
+ font-weight:normal;
+ color:#000000
+}
+.dave {
+ color:#e00707
+}
+.davepetasprite {
+ color:#416600
+}
+.davepetasprite-dialogue {
+ color:#f2a400
+}
+.dirk {
+ color:#f2a400
+}
+.eridan {
+ color:#7e0048
+}
+.feferi {
+ color:#77003c
+}
+.gamzee {
+ color:#2b0057
+}
+.harry {
+ color:#0671cd
+}
+.jade {
+ color:#4ac925
+}
+.jade-brainwashed {
+ color:#000000
+}
+.jake {
+ color:#1f9400
+}
+.jane {
+ color:#0097d7
+}
+.john {
+ color:#0715cd
+}
+.kanaya {
+ color:#008141
+}
+.karkat {
+ color:#7c7e81
+}
+.obama {
+ color:#000000
+}
+.rose {
+ color:#b536da
+}
+.roxy {
+ color:#ff6ff2
+}
+.sollux {
+ color:#a1a100
+}
+.swifer {
+ color:#008141
+}
+.tavros {
+ color:#a15000
+}
+.tavros-kid {
+ color:#2b0057
+}
+.terezi {
+ color:#008282
+}
+.vriska {
+ color:#005682
+}
