@@ -10,9 +10,9 @@
     <dc:coverage />
     <dc:source />
     <dc:date opf:event="publication">2019-04-20</dc:date>
-    <dc:date opf:event="modification">2019-10-27</dc:date>
+    <dc:date opf:event="modification">2019-10-28</dc:date>
     <dc:rights />
-    <meta content="0.9.18" name="Sigil version" />
+    <meta name="Sigil version" content="0.9.18" />
     <dc:identifier id="BookId" opf:scheme="URI">ExNdphPEM</dc:identifier>
   </metadata>
   <manifest>
