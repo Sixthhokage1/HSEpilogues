@@ -19,562 +19,568 @@
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="Text/tags.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
         <text>Prologue</text>
       </navLabel>
       <content src="Text/pro_cover.xhtml"/>
-      <navPoint id="navPoint-3" playOrder="3">
+      <navPoint id="navPoint-4" playOrder="4">
         <navLabel>
           <text>Chapter 1</text>
         </navLabel>
         <content src="Text/pro1.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-4" playOrder="4">
+      <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
           <text>Chapter 2</text>
         </navLabel>
         <content src="Text/pro2.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-5" playOrder="5">
+      <navPoint id="navPoint-6" playOrder="6">
         <navLabel>
           <text>Chapter 3</text>
         </navLabel>
         <content src="Text/pro3.xhtml"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-6" playOrder="6">
+    <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>Meat</text>
       </navLabel>
       <content src="Text/meat_cover.xhtml"/>
-      <navPoint id="navPoint-7" playOrder="7">
+      <navPoint id="navPoint-8" playOrder="8">
         <navLabel>
           <text>Chapter 1</text>
         </navLabel>
         <content src="Text/meat1.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-8" playOrder="8">
+      <navPoint id="navPoint-9" playOrder="9">
         <navLabel>
           <text>Chapter 2</text>
         </navLabel>
         <content src="Text/meat2.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-9" playOrder="9">
+      <navPoint id="navPoint-10" playOrder="10">
         <navLabel>
           <text>Chapter 3</text>
         </navLabel>
         <content src="Text/meat3.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-10" playOrder="10">
+      <navPoint id="navPoint-11" playOrder="11">
         <navLabel>
           <text>Chapter 4</text>
         </navLabel>
         <content src="Text/meat4.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-11" playOrder="11">
+      <navPoint id="navPoint-12" playOrder="12">
         <navLabel>
           <text>Chapter 5</text>
         </navLabel>
         <content src="Text/meat5.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-12" playOrder="12">
+      <navPoint id="navPoint-13" playOrder="13">
         <navLabel>
           <text>Chapter 6</text>
         </navLabel>
         <content src="Text/meat6.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-14" playOrder="14">
         <navLabel>
           <text>Chapter 7</text>
         </navLabel>
         <content src="Text/meat7.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-14" playOrder="14">
+      <navPoint id="navPoint-15" playOrder="15">
         <navLabel>
           <text>Chapter 8</text>
         </navLabel>
         <content src="Text/meat8.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-16" playOrder="16">
         <navLabel>
           <text>Chapter 9</text>
         </navLabel>
         <content src="Text/meat9.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-16" playOrder="16">
+      <navPoint id="navPoint-17" playOrder="17">
         <navLabel>
           <text>Chapter 10</text>
         </navLabel>
         <content src="Text/meat10.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-17" playOrder="17">
+      <navPoint id="navPoint-18" playOrder="18">
         <navLabel>
           <text>Chapter 11</text>
         </navLabel>
         <content src="Text/meat11.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-18" playOrder="18">
+      <navPoint id="navPoint-19" playOrder="19">
         <navLabel>
           <text>Chapter 12</text>
         </navLabel>
         <content src="Text/meat12.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-19" playOrder="19">
+      <navPoint id="navPoint-20" playOrder="20">
         <navLabel>
           <text>Chapter 13</text>
         </navLabel>
         <content src="Text/meat13.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-20" playOrder="20">
+      <navPoint id="navPoint-21" playOrder="21">
         <navLabel>
           <text>Chapter 14</text>
         </navLabel>
         <content src="Text/meat14.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-21" playOrder="21">
+      <navPoint id="navPoint-22" playOrder="22">
         <navLabel>
           <text>Chapter 15</text>
         </navLabel>
         <content src="Text/meat15.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-22" playOrder="22">
+      <navPoint id="navPoint-23" playOrder="23">
         <navLabel>
           <text>Chapter 16</text>
         </navLabel>
         <content src="Text/meat16.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-23" playOrder="23">
+      <navPoint id="navPoint-24" playOrder="24">
         <navLabel>
           <text>Chapter 17</text>
         </navLabel>
         <content src="Text/meat17.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-24" playOrder="24">
+      <navPoint id="navPoint-25" playOrder="25">
         <navLabel>
           <text>Chapter 18</text>
         </navLabel>
         <content src="Text/meat18.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-25" playOrder="25">
+      <navPoint id="navPoint-26" playOrder="26">
         <navLabel>
           <text>Chapter 19</text>
         </navLabel>
         <content src="Text/meat19.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-26" playOrder="26">
+      <navPoint id="navPoint-27" playOrder="27">
         <navLabel>
           <text>Chapter 20</text>
         </navLabel>
         <content src="Text/meat20.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-27" playOrder="27">
+      <navPoint id="navPoint-28" playOrder="28">
         <navLabel>
           <text>Chapter 21</text>
         </navLabel>
         <content src="Text/meat21.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-28" playOrder="28">
+      <navPoint id="navPoint-29" playOrder="29">
         <navLabel>
           <text>Chapter 22</text>
         </navLabel>
         <content src="Text/meat22.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-29" playOrder="29">
+      <navPoint id="navPoint-30" playOrder="30">
         <navLabel>
           <text>Chapter 23</text>
         </navLabel>
         <content src="Text/meat23.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-30" playOrder="30">
+      <navPoint id="navPoint-31" playOrder="31">
         <navLabel>
           <text>Chapter 24</text>
         </navLabel>
         <content src="Text/meat24.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-31" playOrder="31">
+      <navPoint id="navPoint-32" playOrder="32">
         <navLabel>
           <text>Chapter 25</text>
         </navLabel>
         <content src="Text/meat25.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-32" playOrder="32">
+      <navPoint id="navPoint-33" playOrder="33">
         <navLabel>
           <text>Chapter 26</text>
         </navLabel>
         <content src="Text/meat26.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-33" playOrder="33">
+      <navPoint id="navPoint-34" playOrder="34">
         <navLabel>
           <text>Chapter 27</text>
         </navLabel>
         <content src="Text/meat27.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-34" playOrder="34">
+      <navPoint id="navPoint-35" playOrder="35">
         <navLabel>
           <text>Chapter 28</text>
         </navLabel>
         <content src="Text/meat28.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-35" playOrder="35">
+      <navPoint id="navPoint-36" playOrder="36">
         <navLabel>
           <text>Chapter 29</text>
         </navLabel>
         <content src="Text/meat29.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-36" playOrder="36">
+      <navPoint id="navPoint-37" playOrder="37">
         <navLabel>
           <text>Chapter 30</text>
         </navLabel>
         <content src="Text/meat30.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-37" playOrder="37">
+      <navPoint id="navPoint-38" playOrder="38">
         <navLabel>
           <text>Chapter 31</text>
         </navLabel>
         <content src="Text/meat31.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-38" playOrder="38">
+      <navPoint id="navPoint-39" playOrder="39">
         <navLabel>
           <text>Chapter 32</text>
         </navLabel>
         <content src="Text/meat32.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-39" playOrder="39">
+      <navPoint id="navPoint-40" playOrder="40">
         <navLabel>
           <text>Chapter 33</text>
         </navLabel>
         <content src="Text/meat33.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-40" playOrder="40">
+      <navPoint id="navPoint-41" playOrder="41">
         <navLabel>
           <text>Chapter 34</text>
         </navLabel>
         <content src="Text/meat34.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-41" playOrder="41">
+      <navPoint id="navPoint-42" playOrder="42">
         <navLabel>
           <text>Chapter 35</text>
         </navLabel>
         <content src="Text/meat35.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-42" playOrder="42">
+      <navPoint id="navPoint-43" playOrder="43">
         <navLabel>
           <text>Chapter 36</text>
         </navLabel>
         <content src="Text/meat36.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-43" playOrder="43">
+      <navPoint id="navPoint-44" playOrder="44">
         <navLabel>
           <text>Chapter 37</text>
         </navLabel>
         <content src="Text/meat37.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-44" playOrder="44">
+      <navPoint id="navPoint-45" playOrder="45">
         <navLabel>
           <text>Chapter 38</text>
         </navLabel>
         <content src="Text/meat38.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-45" playOrder="45">
+      <navPoint id="navPoint-46" playOrder="46">
         <navLabel>
           <text>Chapter 39</text>
         </navLabel>
         <content src="Text/meat39.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-46" playOrder="46">
+      <navPoint id="navPoint-47" playOrder="47">
         <navLabel>
           <text>Chapter 40</text>
         </navLabel>
         <content src="Text/meat40.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-47" playOrder="47">
+      <navPoint id="navPoint-48" playOrder="48">
         <navLabel>
           <text>Chapter 41</text>
         </navLabel>
         <content src="Text/meat41.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-48" playOrder="48">
+      <navPoint id="navPoint-49" playOrder="49">
         <navLabel>
           <text>Chapter 42</text>
         </navLabel>
         <content src="Text/meat42.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-49" playOrder="49">
+      <navPoint id="navPoint-50" playOrder="50">
         <navLabel>
           <text>Chapter 43</text>
         </navLabel>
         <content src="Text/meat43.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-50" playOrder="50">
+      <navPoint id="navPoint-51" playOrder="51">
         <navLabel>
           <text>Postscript</text>
         </navLabel>
         <content src="Text/meat44.xhtml"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-51" playOrder="51">
+    <navPoint id="navPoint-52" playOrder="52">
       <navLabel>
         <text>Candy</text>
       </navLabel>
       <content src="Text/candy_cover.xhtml"/>
-      <navPoint id="navPoint-52" playOrder="52">
+      <navPoint id="navPoint-53" playOrder="53">
         <navLabel>
           <text>Chapter 1</text>
         </navLabel>
         <content src="Text/candy1.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-53" playOrder="53">
+      <navPoint id="navPoint-54" playOrder="54">
         <navLabel>
           <text>Chapter 2</text>
         </navLabel>
         <content src="Text/candy2.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-54" playOrder="54">
+      <navPoint id="navPoint-55" playOrder="55">
         <navLabel>
           <text>Chapter 3</text>
         </navLabel>
         <content src="Text/candy3.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-55" playOrder="55">
+      <navPoint id="navPoint-56" playOrder="56">
         <navLabel>
           <text>Chapter 4</text>
         </navLabel>
         <content src="Text/candy4.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-56" playOrder="56">
+      <navPoint id="navPoint-57" playOrder="57">
         <navLabel>
           <text>Chapter 5</text>
         </navLabel>
         <content src="Text/candy5.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-57" playOrder="57">
+      <navPoint id="navPoint-58" playOrder="58">
         <navLabel>
           <text>Chapter 6</text>
         </navLabel>
         <content src="Text/candy6.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-58" playOrder="58">
+      <navPoint id="navPoint-59" playOrder="59">
         <navLabel>
           <text>Chapter 7</text>
         </navLabel>
         <content src="Text/candy7.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-59" playOrder="59">
+      <navPoint id="navPoint-60" playOrder="60">
         <navLabel>
           <text>Chapter 8</text>
         </navLabel>
         <content src="Text/candy8.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-60" playOrder="60">
+      <navPoint id="navPoint-61" playOrder="61">
         <navLabel>
           <text>Chapter 9</text>
         </navLabel>
         <content src="Text/candy9.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-61" playOrder="61">
+      <navPoint id="navPoint-62" playOrder="62">
         <navLabel>
           <text>Chapter 10</text>
         </navLabel>
         <content src="Text/candy10.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-62" playOrder="62">
+      <navPoint id="navPoint-63" playOrder="63">
         <navLabel>
           <text>Chapter 11</text>
         </navLabel>
         <content src="Text/candy11.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-63" playOrder="63">
+      <navPoint id="navPoint-64" playOrder="64">
         <navLabel>
           <text>Chapter 12</text>
         </navLabel>
         <content src="Text/candy12.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-64" playOrder="64">
+      <navPoint id="navPoint-65" playOrder="65">
         <navLabel>
           <text>Chapter 13</text>
         </navLabel>
         <content src="Text/candy13.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-65" playOrder="65">
+      <navPoint id="navPoint-66" playOrder="66">
         <navLabel>
           <text>Chapter 14</text>
         </navLabel>
         <content src="Text/candy14.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-66" playOrder="66">
+      <navPoint id="navPoint-67" playOrder="67">
         <navLabel>
           <text>Chapter 15</text>
         </navLabel>
         <content src="Text/candy15.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-67" playOrder="67">
+      <navPoint id="navPoint-68" playOrder="68">
         <navLabel>
           <text>Chapter 16</text>
         </navLabel>
         <content src="Text/candy16.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-68" playOrder="68">
+      <navPoint id="navPoint-69" playOrder="69">
         <navLabel>
           <text>Chapter 17</text>
         </navLabel>
         <content src="Text/candy17.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-69" playOrder="69">
+      <navPoint id="navPoint-70" playOrder="70">
         <navLabel>
           <text>Chapter 18</text>
         </navLabel>
         <content src="Text/candy18.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-70" playOrder="70">
+      <navPoint id="navPoint-71" playOrder="71">
         <navLabel>
           <text>Chapter 19</text>
         </navLabel>
         <content src="Text/candy19.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-71" playOrder="71">
+      <navPoint id="navPoint-72" playOrder="72">
         <navLabel>
           <text>Chapter 20</text>
         </navLabel>
         <content src="Text/candy20.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-72" playOrder="72">
+      <navPoint id="navPoint-73" playOrder="73">
         <navLabel>
           <text>Chapter 21</text>
         </navLabel>
         <content src="Text/candy21.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-73" playOrder="73">
+      <navPoint id="navPoint-74" playOrder="74">
         <navLabel>
           <text>Chapter 22</text>
         </navLabel>
         <content src="Text/candy22.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-74" playOrder="74">
+      <navPoint id="navPoint-75" playOrder="75">
         <navLabel>
           <text>Chapter 23</text>
         </navLabel>
         <content src="Text/candy23.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-75" playOrder="75">
+      <navPoint id="navPoint-76" playOrder="76">
         <navLabel>
           <text>Chapter 24</text>
         </navLabel>
         <content src="Text/candy24.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-76" playOrder="76">
+      <navPoint id="navPoint-77" playOrder="77">
         <navLabel>
           <text>Chapter 25</text>
         </navLabel>
         <content src="Text/candy25.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-77" playOrder="77">
+      <navPoint id="navPoint-78" playOrder="78">
         <navLabel>
           <text>Chapter 26</text>
         </navLabel>
         <content src="Text/candy26.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-78" playOrder="78">
+      <navPoint id="navPoint-79" playOrder="79">
         <navLabel>
           <text>Chapter 27</text>
         </navLabel>
         <content src="Text/candy27.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-79" playOrder="79">
+      <navPoint id="navPoint-80" playOrder="80">
         <navLabel>
           <text>Chapter 28</text>
         </navLabel>
         <content src="Text/candy28.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-80" playOrder="80">
+      <navPoint id="navPoint-81" playOrder="81">
         <navLabel>
           <text>Chapter 29</text>
         </navLabel>
         <content src="Text/candy29.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-81" playOrder="81">
+      <navPoint id="navPoint-82" playOrder="82">
         <navLabel>
           <text>Chapter 30</text>
         </navLabel>
         <content src="Text/candy30.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-82" playOrder="82">
+      <navPoint id="navPoint-83" playOrder="83">
         <navLabel>
           <text>Chapter 31</text>
         </navLabel>
         <content src="Text/candy31.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-83" playOrder="83">
+      <navPoint id="navPoint-84" playOrder="84">
         <navLabel>
           <text>Chapter 32</text>
         </navLabel>
         <content src="Text/candy32.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-84" playOrder="84">
+      <navPoint id="navPoint-85" playOrder="85">
         <navLabel>
           <text>Chapter 33</text>
         </navLabel>
         <content src="Text/candy33.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-85" playOrder="85">
+      <navPoint id="navPoint-86" playOrder="86">
         <navLabel>
           <text>Chapter 34</text>
         </navLabel>
         <content src="Text/candy34.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-86" playOrder="86">
+      <navPoint id="navPoint-87" playOrder="87">
         <navLabel>
           <text>Chapter 35</text>
         </navLabel>
         <content src="Text/candy35.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-87" playOrder="87">
+      <navPoint id="navPoint-88" playOrder="88">
         <navLabel>
           <text>Chapter 36</text>
         </navLabel>
         <content src="Text/candy36.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-88" playOrder="88">
+      <navPoint id="navPoint-89" playOrder="89">
         <navLabel>
           <text>Chapter 37</text>
         </navLabel>
         <content src="Text/candy37.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-89" playOrder="89">
+      <navPoint id="navPoint-90" playOrder="90">
         <navLabel>
           <text>Chapter 38</text>
         </navLabel>
         <content src="Text/candy38.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-90" playOrder="90">
+      <navPoint id="navPoint-91" playOrder="91">
         <navLabel>
           <text>Chapter 39</text>
         </navLabel>
         <content src="Text/candy39.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-91" playOrder="91">
+      <navPoint id="navPoint-92" playOrder="92">
         <navLabel>
           <text>Chapter 40</text>
         </navLabel>
         <content src="Text/candy40.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-92" playOrder="92">
+      <navPoint id="navPoint-93" playOrder="93">
         <navLabel>
           <text>Postscript</text>
         </navLabel>
         <content src="Text/candy41.xhtml"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-93" playOrder="93">
+    <navPoint id="navPoint-94" playOrder="94">
       <navLabel>
         <text>Appendices</text>
       </navLabel>
       <content src=""/>
-      <navPoint id="navPoint-94" playOrder="94">
+      <navPoint id="navPoint-95" playOrder="95">
         <navLabel>
           <text>The Homestuck Epilogues: Bridges And Off-Ramps</text>
         </navLabel>
         <content src="Text/appendix_bridges_and_offramps.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-95" playOrder="95">
+      <navPoint id="navPoint-96" playOrder="96">
         <navLabel>
           <text>More detailed content warnings for The Homestuck Epilogues</text>
         </navLabel>

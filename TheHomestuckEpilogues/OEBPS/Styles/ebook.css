@@ -123,3 +123,8 @@ pre {
 .vriska {
  color:#005682
 }
+p.Command {
+ text-indent:0px;
+ margin:15px 0px 15px 25px;
+ font-family:Verdana, sans-serif
+}
