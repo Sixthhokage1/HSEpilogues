@@ -1,7 +1,4 @@
-body {
-    font-size: medium;
-}
-
+/* defaults */
 blockquote {
     font-style: italic;
     border-left: 3px solid black;
@@ -30,6 +27,96 @@ pre {
     white-space: pre-wrap;
     font-size: 75%;
 }
+
+/* general hs imported styles */
+
+body {
+ font-family:adobe-garamond-pro, serif;
+ font-weight:normal
+}
+span.opener {
+ float:left;
+ font-family:'Homestuck-Regular', monospace;
+ line-height:0.825
+}
+div.chat {
+ margin:15px 0px 15px 25px;
+ font-family:"courier-std", courier, monospace
+}
+div.chat p {
+ text-indent:0px;
+ font-weight:bold
+}
+p.Command {
+ text-indent:0px;
+ margin:15px 0px 15px 25px;
+ font-family:Verdana, sans-serif
+}
+
+.type-xxl {
+font-size:74px
+}
+.type-hs-opener-rg {
+font-size:65px
+}
+.type-xl {
+font-size:56px
+}
+.type-hs-opener-sm {
+font-size:51px
+}
+.type-lg {
+font-size:39px
+}
+.type-md {
+font-size:28px
+}
+.type-hs-header {
+font-size:32px
+}
+.type-hs-copy {
+font-size:24px
+}
+.type-rg {
+font-size:20px
+}
+.type-hs-rg {
+font-size:18px
+}
+.type-sm {
+font-size:16px
+}
+.type-hs-small {
+font-size:14px
+}
+.type-bs {
+font-size:12px
+}
+.type-hs-button {
+font-size:11px
+}
+.type-hs-bottom {
+font-size:10px
+}
+.type-center {
+text-align:center
+}
+.type-left {
+text-align:left
+}
+.type-right {
+text-align:right
+}
+
+p.no-indent {
+ text-indent:0px
+}
+
+.weight-bold {
+ font-weight:700
+}
+
+/* character styles */
 
 .aranea {
  color:#005682
@@ -122,9 +209,4 @@ pre {
 }
 .vriska {
  color:#005682
-}
-p.Command {
- text-indent:0px;
- margin:15px 0px 15px 25px;
- font-family:Verdana, sans-serif
 }

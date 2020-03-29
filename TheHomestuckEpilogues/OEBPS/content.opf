@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>The Homestuck Epilogues</dc:title>
     <dc:language>en</dc:language>
     <dc:creator opf:role="aut">Andrew Hussie</dc:creator>
@@ -10,10 +10,10 @@
     <dc:coverage />
     <dc:source />
     <dc:date opf:event="publication">2019-04-20</dc:date>
-    <dc:date opf:event="modification">2019-10-28</dc:date>
+    <dc:date opf:event="modification">2020-03-29</dc:date>
     <dc:rights />
-    <meta name="Sigil version" content="0.9.18" />
-    <dc:identifier id="BookId" opf:scheme="URI">ExNdphPEM</dc:identifier>
+    <meta name="Sigil version" content="1.1.0" />
+    <dc:identifier opf:scheme="URI" id="BookId">ExNdphPEM</dc:identifier>
   </metadata>
   <manifest>
     <item id="pro_cover" href="Text/pro_cover.xhtml" media-type="application/xhtml+xml"/>
@@ -120,6 +120,7 @@
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix_cover.xhtml" href="Text/appendix_cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix_content_warnings.xhtml" href="Text/appendix_content_warnings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Homestuck-Regular.ttf" href="Fonts/Homestuck-Regular.ttf" media-type="font/ttf"/>
   </manifest>
   <spine toc="navigation">
     <itemref idref="cover.xhtml"/>
