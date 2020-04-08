@@ -10,9 +10,9 @@
     <dc:coverage />
     <dc:source />
     <dc:date opf:event="publication">2019-04-20</dc:date>
-    <dc:date opf:event="modification">2020-03-29</dc:date>
+    <dc:date opf:event="modification">2020-04-08</dc:date>
     <dc:rights />
-    <meta name="Sigil version" content="1.1.0" />
+    <meta name="Sigil version" content="1.2.1" />
     <dc:identifier opf:scheme="URI" id="BookId">ExNdphPEM</dc:identifier>
   </metadata>
   <manifest>
@@ -120,7 +120,7 @@
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix_cover.xhtml" href="Text/appendix_cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix_content_warnings.xhtml" href="Text/appendix_content_warnings.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Homestuck-Regular.ttf" href="Fonts/Homestuck-Regular.ttf" media-type="font/ttf"/>
+    <item id="Homestuck-Regular.otf" href="Fonts/Homestuck-Regular.otf" media-type="font/otf"/>
   </manifest>
   <spine toc="navigation">
     <itemref idref="cover.xhtml"/>

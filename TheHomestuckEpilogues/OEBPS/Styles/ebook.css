@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Homestuck-Regular";
+    src: url("../Fonts/Homestuck-Regular.otf");
+}
+
 /* defaults */
 blockquote {
     font-style: italic;
